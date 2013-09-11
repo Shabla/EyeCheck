@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>ressources/eye_closed.bmp</file>
+    <file>ressources/eye_open.bmp</file>
+    <file>ressources/appicon-text/icon.ico</file>
+    <file>ressources/button-sequence-stop.png</file>
+    <file>ressources/button-sequence-start.png</file>
+    <file>ressources/arrow-down.png</file>
+    <file>ressources/arrow-up.png</file>
+    <file>ressources/logo-cae.png</file>
+    <file>ressources/logo-cae-white.png</file>
+    <file>ressources/brightness-light.png</file>
+    <file>ressources/brightness-dark.png</file>
+    <file>ressources/icon-about.png</file>
+    <file>ressources/icon-exit.png</file>
+    <file>ressources/icon-settings.png</file>
+    <file>ressources/icon-test.png</file>
+    <file>ressources/splash.png</file>
+</qresource>
+</RCC>
